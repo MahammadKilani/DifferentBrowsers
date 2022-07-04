@@ -1,0 +1,2 @@
+file:src/main/resources/Features/MicrosoftEdge.feature:3
+file:src/main/resources/Features/GoogleChrome.feature:3
